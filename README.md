@@ -1,1 +1,1 @@
-# Minecraft-Script
+# Minecraft Script
