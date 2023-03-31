@@ -15,3 +15,6 @@ appimage_path="Documents/Lunar Client/Lunar Client-2.15.1.AppImage"
 ```
 appimage_path="Your Full PATH Here"
 ```
+
+#### To install Lunar Client Launcher:
+The Link: [Lunar-Client](https://www.lunarclient.com)
