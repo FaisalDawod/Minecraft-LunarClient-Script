@@ -7,7 +7,7 @@
 ```
 ./Lunar_Client.sh
 ```
-#### Note that you must update the path in the script like the following:
+#### Note: You **MUST** update the path in the script like the following:
 ```
 appimage_path="Documents/Lunar Client/Lunar Client-2.15.1.AppImage"
 ```
