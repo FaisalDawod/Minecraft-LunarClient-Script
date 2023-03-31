@@ -13,5 +13,5 @@ appimage_path="Documents/Lunar Client/Lunar Client-2.15.1.AppImage"
 ```
 #### To:
 ```
-appimage_path="Your Full PATH"
+appimage_path="Your Full PATH Here"
 ```
