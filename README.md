@@ -1,4 +1,4 @@
-# Minecraft Lunar Clien Script
+# Minecraft Lunar Client Script
 
 ### _About the script_:
 #### This script launches Minecraft on Linux running on the Lunar Client Launcher by combining a set of commands with one thing.
