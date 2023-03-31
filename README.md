@@ -20,6 +20,11 @@ appimage_path="Your Full PATH Here"
 sudo mv Lunar_Client.sh usr/local/bin
 ```
 
+#### Script user permission:
+```
+chmod +x /usr/local/bin/Lunar_Client.sh
+```
+
 #### Run the script on Linux terminal:
 ```
 ./Lunar_Client.sh
