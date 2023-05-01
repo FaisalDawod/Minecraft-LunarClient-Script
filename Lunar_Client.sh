@@ -1,7 +1,7 @@
-#Lunar Client Bash Script Runner
-#©Copyright: Faisal Dawod (Basha)
-#Date: 17-3-2023
-#Day: Friday
+# Lunar Client Bash Script Runner
+# ©Copyright: Faisal Dawod (Basha)
+# Date: 17-3-2023
+# Day: Friday
 
 #!/bin/bash
 
