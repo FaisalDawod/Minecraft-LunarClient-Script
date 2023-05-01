@@ -1,31 +1,35 @@
-# Minecraft Lunar Client Script
+# Script for Minecraft Lunar Client on Linux
 
-### _About the script_:
-#### This script launches Minecraft on Linux running on the Lunar Client Launcher by combining a set of commands with one thing.
+### About the script:
+This script is designed to launch Minecraft on Linux using the Lunar Client Launcher. It combines a set of commands to simplify the launch process.
 
-#### Install Lunar Client Launcher:
-#### The Link: [Lunar-Client](https://www.lunarclient.com)
+### Installation instructions for Lunar Client Launcher:
+To use this script, you will first need to install the Lunar Client Launcher. You can download it from the official website at [Lunar-Client](https://www.lunarclient.com).
 
-#### Note: You **MUST** update the path in the script like the following:
+### Important note:
+Before running the script, you must update the 'appimage_path' variable in the script to match the file path of your Lunar Client Launcher installation.
+
+For example:
 ```
 appimage_path="Documents/Lunar Client/Lunar Client-2.15.1.AppImage"
 ```
-#### To:
+Should be changed to:
 ```
 appimage_path="Your Full PATH Here"
 ```
 
-#### Run the script in any PATH's in your system, you need to **MOVE** the script after update your Lunar AppImage file PATH in script:
+### Running the script:
+Once you have updated the 'appimage_path' variable, you can run the script from any path on your system. However, you need to move the script after updating the Lunar AppImage file path in the script.
+
+To do this, use the following command with sudo privileges:
 ```
 sudo mv Lunar_Client.sh usr/local/bin
 ```
-
-#### Script user permission:
+Then, set user permissions for the script with the following command:
 ```
 chmod +x /usr/local/bin/Lunar_Client.sh
 ```
-
-#### Run the script on Linux terminal:
+Finally, run the script from the Linux terminal with the following command:
 ```
 ./Lunar_Client.sh
 ```
